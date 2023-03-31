@@ -1,0 +1,5 @@
+.DS_Store
+/Array/main
+
+# Compile a C++ file: g++ -std=c++11 <filename>.cpp -o main
+# Run program: ./main
