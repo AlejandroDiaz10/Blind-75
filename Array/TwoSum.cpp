@@ -14,7 +14,7 @@ You can return the answer in any order.
 using namespace std;
 
 vector<int> twoSum(vector<int>& nums, int target) {
-    // We can use a hashmap in order to store the values ​​of both the number and its index
+    // We can use an unordered map in order to store the values ​​of both the number and its index
     // map<number, index>
     unordered_map<int, int> map;
 
